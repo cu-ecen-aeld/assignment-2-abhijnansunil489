@@ -1,1 +1,1 @@
-[![assignment-autotest-test](https://github.com/cu-ecen-aeld/assignment-2-abhijnansunil489/actions/workflows/github-actions.yml/badge.svg)](https://github.com/cu-ecen-aeld/assignment-1-abhijnansunil489/actions/workflows/github-actions.yml
+[![assignment-autotest-test](https://github.com/cu-ecen-aeld/assignment-2-abhijnansunil489/actions/workflows/github-actions.yml/badge.svg)](https://github.com/cu-ecen-aeld/assignment-2-abhijnansunil489/actions/workflows/github-actions.yml
